@@ -1,0 +1,12 @@
+name: Mineclorant
+version: '1.0'
+main: io.codenamemc.mineclorant.Main
+api-version: '1.13'
+commands:
+  start:
+    description: start Mineclorant
+    usage: /<command>
+  false:
+    description: gameRunning var to false
+    usage: /<command>
+    permission: Mineclrorant.admin
